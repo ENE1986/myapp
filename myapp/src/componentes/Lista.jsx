@@ -11,7 +11,7 @@ function Lista() {
       <li>Precio:<br/>
        $25000</li>
       <li>SKU:<br/>
-       00000876565</li>
+       0000000000876565</li>
       <li>Cantidad disponible:,<br/>
        200 unidades</li>
     </ul>
