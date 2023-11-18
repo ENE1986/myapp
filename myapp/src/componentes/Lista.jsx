@@ -9,7 +9,7 @@ function Lista() {
        Pava eléctrica con regulador<br/>
         para calentar o hervir agua</li>
       <li>Precio:<br/>
-       $20000</li>
+       $25000</li>
       <li>SKU:<br/>
        00000876565</li>
       <li>Cantidad disponible:,<br/>
